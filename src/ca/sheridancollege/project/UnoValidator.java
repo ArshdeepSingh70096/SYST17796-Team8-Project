@@ -1,3 +1,4 @@
+package ca.sheridancollege.project;
 public class UnoValidator {
 
     public static boolean isValidMove(UnoCard playedCard, UnoCard topCard) {

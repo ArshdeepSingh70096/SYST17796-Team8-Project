@@ -1,3 +1,4 @@
+package ca.sheridancollege.project;
 public class UnoActionHandler {
 
     public static void applyAction(UnoCard card) {
